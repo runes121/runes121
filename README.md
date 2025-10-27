@@ -3,7 +3,7 @@ runes121/runes121 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![wakatime](https://wakatime.com/badge/user/a965470a-e779-414d-afbe-d69762b684b4.svg)](https://wakatime.com/@a965470a-e779-414d-afbe-d69762b684b4)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runes121&size_weight=0.5&count_weight=0.5)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=runes121)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=runes121)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/a965470a-e779-414d-afbe-d69762b684b4.svg)](https://wakatime.com/@a965470a-e779-414d-afbe-d69762b684b4)
